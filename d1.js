@@ -1,4 +1,4 @@
-const LINK_DATA = 'https://vmutest.github.io/truyenthong/data.txt';
+const LINK_DATA = 'https://vmutest.github.io/truyenthong/d1.txt';
 const TIME_DELAY = 2000;
 
 const RIGHT_ANSWER = 'right';
